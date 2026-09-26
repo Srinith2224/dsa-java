@@ -2,7 +2,7 @@ package javakit;
 
 import java.util.*;
 
-public class d02 {
+public class D02 {
     public static void main(String[] args) {
         dequeDemo();
         priorityQueueDemo();
