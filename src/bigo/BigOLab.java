@@ -1,3 +1,5 @@
+package bigo;
+
 public class BigOLab {
 
     // O(1) — Return the element at index 5 of arr
